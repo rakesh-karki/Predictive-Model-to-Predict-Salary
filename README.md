@@ -1,5 +1,5 @@
 # Predictive Model to Predict Salary
- In this project, we will use the census data from 1994 to attempt to predict whether or not a person has an annual salary greater than $50,000 based on other information provided in the census. More details can be found at: https://archive.ics.uci.edu/ml/datasets/adult
+ In this project, census data from 1994 is used to attempt to predict whether or not a person earns an annual salary greater than $50,000 based on other information collected in the census. More details can be found at: https://archive.ics.uci.edu/ml/datasets/adult
 
 **Attribute Information:**  
 - **age:** continuous.
